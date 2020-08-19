@@ -64,7 +64,15 @@
     "typescript": "^3.4.2",
     "unified-stream": "^1.0.5",
     "uuid": "^3.3.2",
-    "whatwg-fetch": "2.0.4"
+    "whatwg-fetch": "2.0.4",
+    "expo-av":"7.0.1",
+    "expo-font":"1.2.7",
+    "axios":"0.19.2",
+    "expo-speech": "4.0.0",
+    "firebase": "7.18.0",
+    "expo-cli": "3.24.2",
+    
+
   },
   "devDependencies": {
     "@types/expo": "^32.0.10",
